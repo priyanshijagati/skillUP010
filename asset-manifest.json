@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillUP010/static/css/main.fef2079f.css",
+    "main.js": "/skillUP010/static/js/main.3be1137b.js",
+    "index.html": "/skillUP010/index.html",
+    "main.fef2079f.css.map": "/skillUP010/static/css/main.fef2079f.css.map",
+    "main.3be1137b.js.map": "/skillUP010/static/js/main.3be1137b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef2079f.css",
+    "static/js/main.3be1137b.js"
+  ]
+}
